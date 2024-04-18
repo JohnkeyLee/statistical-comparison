@@ -3,7 +3,7 @@ This code is to generate your statistical results from your data set
 
 ### [SciPy](https://scipy.org/) 
 ## Easy to get your statistical results!! 
-Please_**follow the full set of code**_
+Please_**follow the full set of code**
 <br/>**Work environment:** 
 > python 3.9.5 (4/18/2024)
 <br/>pandas 1.4.2
